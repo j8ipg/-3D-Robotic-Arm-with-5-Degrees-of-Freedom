@@ -69,5 +69,5 @@ The robotic arm was created to demonstrate mechanical movement and modular joint
 
 ---
 
-Designed and modeled by: **[Your Name Here]**
+Designed and modeled by: **[JEHAD ALTAYYAR.]**
 
