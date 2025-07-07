@@ -1,4 +1,5 @@
 
+
 # 🤖 3D Robotic Arm with 5 Degrees of Freedom
 
 This project is a 3D model of a robotic arm with **5 degrees of freedom (5 DOF)**, designed using **Autodesk Inventor**. The design simulates the motion of a human-like arm, consisting of multiple joints and segments, and is ideal for applications such as education, simulation, research, or 3D printing platforms.
@@ -56,8 +57,8 @@ The robotic arm was created to demonstrate mechanical movement and modular joint
 
 ## 🖼️ Project Snapshot
 
-![Robotic Arm Preview](pic%20of.jpg)
 
+![task 1](https://github.com/user-attachments/assets/60957ee0-c46c-428e-9c9b-cdab6b6bccd4) 
 ---
 
 
